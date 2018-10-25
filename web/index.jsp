@@ -11,6 +11,6 @@
     <title>Test Hello World</title>
   </head>
   <body>
-  Im alive! привет
+  Im alive!
   </body>
 </html>
