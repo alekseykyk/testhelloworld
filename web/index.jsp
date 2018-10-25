@@ -11,9 +11,9 @@
     <title>Test Hello World</title>
   </head>
   <body>
-  Установка - Tomcat = Done
-  Установка - Teamcity = Done
-  Соединение IDEA и GitHub = Done
-  Соединение GitHub и Teamcity = Done
+  Установка - Tomcat = Done "/n"
+  Установка - Teamcity = Done "/n"
+  Соединение IDEA и GitHub = Done "/n"
+  Соединение GitHub и Teamcity = Done "/n"
   </body>
 </html>
